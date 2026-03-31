@@ -4,8 +4,6 @@ A self-hosted booking page for [Zo Computer](https://zocomputer.com). Visitors p
 
 No database. No third-party scheduling service. Just three zo.space routes and a Google Cloud service account.
 
-![Booking page preview](https://via.placeholder.com/800x500?text=Booking+Page+Preview)
-
 ## Features
 
 - Real-time availability from one or more Google Calendars (FreeBusy API)
